@@ -112,7 +112,7 @@
 <br>
 
 
-I enjoy **building impactful software** , **designing intuitive interfaces** and  **solving CTFs** 🚩  — basically, anything that involves breaking, fixing, or beautifying things on the web :)
+I enjoy **building impactful software** , **designing intuitive interfaces** and  **solving CTFs**  — basically, anything that involves breaking, fixing, or beautifying things on the web :)
 
 <br>
 

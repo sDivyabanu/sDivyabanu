@@ -30,13 +30,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 4th Year Integrated M.Tech **Software Engineering** student at **VIT Chennai**
-- 🌐 Passionate about building **scalable web applications**
-- 🎨 **UI/UX Enthusiast**
-- 🔍 Exploring various domains in software engineering
-- 🚩 Love solving **Capture The Flag (CTF)** challenges
-- ☁️ Currently learning **Cloud Technologies** and **System Design**
-- 🤝 Open to collaborations and exciting projects
+* 🎓 4th Year Integrated M.Tech **Software Engineering** student at **VIT Chennai**
+* 💼 **Web Development Lead** at **CodeChef VIT Chennai Student Chapter**
+* 🌐 Passionate about building **scalable web applications**
+* 🎨 **UI/UX Enthusiast**
+* 🔍 Exploring various domains in software engineering
+* 🚩 Love solving **Capture The Flag (CTF)** challenges
+* ☁️ Currently learning **Cloud Technologies** and **System Design**
+* 🤝 Open to collaborations and exciting projects
+
 
 <br>
 

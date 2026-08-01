@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/in/divyabanus/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+   <img src="https://komarev.com/ghpvc/?username=sdivyabanu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 </div>

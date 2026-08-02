@@ -121,6 +121,10 @@ I enjoy **building impactful software** , **designing intuitive interfaces** and
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sdivyabanu&theme=github-dark-blue&hide_border=true&border_radius=12" />
+
+</div>
+
 ⭐️ *Thanks for stopping by — feel free to reach out!*
 
 </div>

@@ -125,6 +125,8 @@ I enjoy **building impactful software** , **designing intuitive interfaces** and
 
 </div>
 
+<div align="center">
+
 ⭐️ *Thanks for stopping by — feel free to reach out!*
 
 </div>

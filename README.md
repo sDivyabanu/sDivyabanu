@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:3178C6&height=190&section=header&text=Hi%20there,%20I'm%20S%20Divyabanu%20👋&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=16&font=Roboto&animation=fadeIn" width="100%" alt="header banner"/>
 <br>
 
-  
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Building+scalable+Web+applications" alt="Typing SVG" />
 </a>

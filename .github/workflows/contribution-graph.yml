@@ -20,11 +20,92 @@ jobs:
           ref: output
           path: output
 
-      - name: Generate contribution graph
+      - name: Generate contribution calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_USER: sDivyabanu
         run: |
-          curl --fail --location --retry 3 \
-            "https://github-readme-activity-graph.vercel.app/graph?username=sDivyabanu&bg_color=0d1117&color=8b9dff&line=6366f1&point=a78bfa&area=true&hide_border=true" \
-            -o output/contribution-graph.svg
+          python -m pip install requests
+          cat > /tmp/generate.py <<'PY'
+          import os
+          import requests
+          import datetime
+          import html
+
+          user = os.environ["GH_USER"]
+          token = os.environ["GH_TOKEN"]
+
+          query = """
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          response = requests.post(
+              "https://api.github.com/graphql",
+              headers={"Authorization": f"Bearer {token}"},
+              json={"query": query, "variables": {"login": user}},
+              timeout=30,
+          )
+          response.raise_for_status()
+          result = response.json()
+
+          if result.get("errors"):
+              raise RuntimeError(result["errors"])
+
+          calendar = result["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+          weeks = calendar["weeks"]
+
+          colors = [
+              "#161B22",
+              "#172554",
+              "#3730A3",
+              "#6366F1",
+              "#A78BFA",
+          ]
+
+          width = max(720, len(weeks) * 13 + 48)
+          height = 165
+
+          parts = [
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">',
+              '<rect width="100%" height="100%" fill="#0D1117"/>',
+              '<text x="24" y="25" fill="#8B9DFF" font-family="Arial,sans-serif" font-size="15" font-weight="bold">Contribution Calendar</text>',
+              f'<text x="{width-24}" y="25" text-anchor="end" fill="#C9D1D9" font-family="Arial,sans-serif" font-size="12">{calendar["totalContributions"]:,} contributions</text>',
+          ]
+
+          for wi, week in enumerate(weeks):
+              for day in week["contributionDays"]:
+                  date = datetime.date.fromisoformat(day["date"])
+                  count = day["contributionCount"]
+                  level = 0 if count == 0 else min(4, 1 + (count >= 3) + (count >= 6) + (count >= 10))
+                  x = 24 + wi * 13
+                  y = 43 + ((date.weekday() + 1) % 7) * 13
+                  title = html.escape(f'{date}: {count} contributions')
+                  parts.append(
+                      f'<rect x="{x}" y="{y}" width="10" height="10" rx="2" fill="{colors[level]}">'
+                      f'<title>{title}</title></rect>'
+                  )
+
+          parts.append("</svg>")
+
+          with open("output/contribution-graph.svg", "w", encoding="utf-8") as f:
+              f.write("\n".join(parts))
+          PY
+
+          python /tmp/generate.py
 
       - name: Publish contribution graph
         working-directory: output
@@ -32,9 +113,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email \
             "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add contribution-graph.svg
 
           if ! git diff --cached --quiet; then
-            git commit -m "Update contribution graph"
-            git push origin output
+            git commit -m "Update contribution calendar"
+            git push origin HEAD:output
           fi

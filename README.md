@@ -121,17 +121,31 @@
 
 
 
+
+
 ## 03 / GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sDivyabanu&bg_color=0D1117&color=8B9DFF&line=8B9DFF&point=A78BFA&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
+### Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sDivyabanu&bg_color=0d1117&color=8b9dff&line=6366f1&point=a78bfa&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+
+<br/><br/>
+
+### Contribution Snake
+
+<img src="https://raw.githubusercontent.com/sDivyabanu/sDivyabanu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 <br/>
 
 ---
+
+
+---
+
 
 
 ---

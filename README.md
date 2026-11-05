@@ -188,9 +188,11 @@ I'm always up for interesting projects, meaningful collaborations, and conversat
 
 <br/>
 
-<a href="mailto:sdivyabanu09@gmail.com">
-<img src="https://img.shields.io/badge/GET_IN_TOUCH-8B9DFF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Get in touch"/>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sdivyabanu09@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GET_IN_TOUCH-8B9DFF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Get in touch"/>
 </a>
+
 
 <br/><br/>
 

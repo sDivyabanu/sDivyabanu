@@ -1,131 +1,178 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:3178C6&height=190&section=header&text=Hi%20there,%20I'm%20S%20Divyabanu%20👋&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=16&font=Roboto&animation=fadeIn" width="100%" alt="header banner"/>
-<br>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Building+scalable+Web+applications" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:172554,100:6D28D9&text=S%20DIVYABANU&fontSize=43&fontColor=FFFFFF&fontAlignY=37&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Profile banner"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1100&color=8B9DFF&center=true&vCenter=true&width=650&lines=Building+things+for+the+web.;Designing+experiences+that+matter.;Exploring+systems+%26+security.;Always+learning.+Always+building." alt="Typing SVG"/>
 </a>
-<br><br>
 
-<div align="center">
+<br/><br/>
 
-<p>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sdivyabanu09@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://github.com/sDivyabanu">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-  <a href="https://www.linkedin.com/in/divyabanus/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <!-- </a>
-   <img src="https://komarev.com/ghpvc/?username=sdivyabanu&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> -->
-</p>
+&nbsp;
+<a href="https://www.linkedin.com/in/divyabanus/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:sdivyabanu09@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
 </div>
 
-</div>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-<br>
+<br/>
 
-## 🧑‍💻 About Me
-
-* 🎓 4th Year Integrated M.Tech **Software Engineering** student at **VIT Chennai**
-* 💻 **Software Engineering Intern** at **TringFlow**
-* 💼 **Web Development Lead** at **CodeChef VIT Chennai Student Chapter**
-* 🌐 Passionate about building **scalable web applications**
-* 🎨 **UI/UX Enthusiast**
-* 🔍 Exploring various domains in software engineering
-* 🚩 Love solving **Capture The Flag (CTF)** challenges
-* ☁️ Currently learning **Cloud Technologies** and **System Design**
-* 🤝 Open to collaborations and exciting projects
-
-<br>
-
-<div align ="center">
-
-  
-## 🧠 Tech Stack
-
-<br>
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p>
-<br>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
-<br>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-<br>
-
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-<br>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-<br>
-
-**UI/UX**
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-<br>
-
-**CMS**
-<p>
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
-</p>
-<br>
-
-</div>
-
-<br>
+---
 
 
-I enjoy **building impactful software** , **designing intuitive interfaces** and  **solving CTFs**  — basically, anything that involves breaking, fixing, or beautifying things on the web :)
 
-<br>
+## 01 / About Me
 
-<!-- <div align="center">
+-  **Education** — 4th Year Integrated M.Tech in **Software Engineering** at **VIT Chennai**
+-  **Experience** — Software Engineering Intern at **TringFlow**
+-  **Leadership** — Development Team Lead at **CodeChef VIT Chennai Student Chapter**
+-  **Development** — Passionate about building scalable web applications and meaningful digital experiences
+-  **Design** — UI/UX enthusiast who loves crafting intuitive, user-friendly interfaces
+-  **Cybersecurity** — Enjoy solving Capture The Flag (CTF) challenges and exploring security concepts
+-  **Currently Learning** — Cloud Technologies and System Design
+-  **Exploring** — Different domains of software engineering and emerging technologies
+-  **Collaboration** — Always open to exciting projects, new ideas, and opportunities to build together
 
-<img src="https://streak-stats.demolab.com?user=sdivyabanu&theme=github-dark-blue&hide_border=true&border_radius=12" />
+<br/>
 
-</div> -->
+> *Somewhere between building things, breaking things, and figuring out how to make them better.*
+
+<br/>
+
+---
+
+
+## 02 / Tech Stack
 
 <div align="center">
 
-⭐️ *Thanks for stopping by — feel free to reach out!*
+<sub>THE LANGUAGES, FRAMEWORKS & TOOLS I WORK WITH</sub>
+
+<br/><br/>
+
+### `01.` Languages
+
+<img src="https://img.shields.io/badge/C-161B22?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+<img src="https://img.shields.io/badge/C++-161B22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Go-161B22?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go"/>
+
+<br/><br/>
+
+### `02.` Frontend Development
+
+<img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3"/>
+<img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+
+<br/><br/>
+
+### `03.` Backend Development
+
+<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-161B22?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js"/>
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"/>
+
+<br/><br/>
+
+### `04.` Databases
+
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
+
+<br/><br/>
+
+### `05.` Cloud, DevOps & Tools
+
+<img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+<img src="https://img.shields.io/badge/Vercel-161B22?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/>
+
+<br/><br/>
+
+### `06.` Design & Content
+
+<img src="https://img.shields.io/badge/Figma-161B22?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+<img src="https://img.shields.io/badge/Sanity-161B22?style=for-the-badge&logo=sanity&logoColor=F03E2F" alt="Sanity"/>
+
+</div>
+
+<br/>
+
+---
+
+
+
+## 03 / GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sDivyabanu&bg_color=0D1117&color=8B9DFF&line=8B9DFF&point=A78BFA&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub Contribution Activity"/>
+
+</div>
+
+<br/>
+
+---
+
+
+---
+
+## 04 / Beyond the Code
+
+<div align="center">
+
+| `BUILD` | `DESIGN` | `EXPLORE` |
+|:---:|:---:|:---:|
+| Full Stack Applications | UI/UX Experiences | Cybersecurity & CTFs |
+| Scalable Solutions | Thoughtful Interfaces | Cloud & System Design |
+
+</div>
+
+<br/>
+
+I enjoy **building impactful software**, **designing intuitive interfaces**, and **solving CTF challenges** — basically anything that involves creating, understanding, breaking, or improving things on the web.
+
+<br/>
+
+---
+
+<div align="center">
+
+### Let's Build Something Together.
+
+I'm always up for interesting projects, meaningful collaborations, and conversations about technology.
+
+<br/>
+
+<a href="mailto:sdivyabanu09@gmail.com">
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-8B9DFF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Get in touch"/>
+</a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by. Keep building, keep learning. ✦</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:172554,100:0D1117&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>

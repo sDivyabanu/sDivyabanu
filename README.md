@@ -123,13 +123,14 @@
 
 
 
+
 ## 03 / GitHub Activity
 
 <div align="center">
 
 ### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sDivyabanu&bg_color=0d1117&color=8b9dff&line=6366f1&point=a78bfa&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/sDivyabanu/sDivyabanu/output/contribution-graph.svg" width="100%" alt="GitHub Contribution Graph"/>
 
 <br/><br/>
 
@@ -140,6 +141,9 @@
 </div>
 
 <br/>
+
+---
+
 
 ---
 

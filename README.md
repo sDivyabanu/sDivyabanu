@@ -124,23 +124,30 @@
 
 
 
+
+
 ## 03 / GitHub Activity
 
 <div align="center">
 
-### Contribution Graph
+### Contributions
 
-<img src="https://raw.githubusercontent.com/sDivyabanu/sDivyabanu/output/contribution-graph.svg" width="100%" alt="GitHub Contribution Graph"/>
+
+<img src="https://img.shields.io/badge/Total_Contributions-1%2C126-161B22?style=for-the-badge&labelColor=161B22&logo=github&logoColor=8B9DFF" alt="Total Contributions"/>
+
 
 <br/><br/>
-
-### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/sDivyabanu/sDivyabanu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 <br/>
+
+---
+
+
+---
 
 ---
 

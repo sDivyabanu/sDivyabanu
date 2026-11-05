@@ -1,0 +1,40 @@
+
+name: Generate Contribution Graph
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output
+
+      - name: Generate contribution graph
+        run: |
+          curl --fail --location --retry 3 \
+            "https://github-readme-activity-graph.vercel.app/graph?username=sDivyabanu&bg_color=0d1117&color=8b9dff&line=6366f1&point=a78bfa&area=true&hide_border=true" \
+            -o output/contribution-graph.svg
+
+      - name: Publish contribution graph
+        working-directory: output
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contribution-graph.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update contribution graph"
+            git push origin output
+          fi

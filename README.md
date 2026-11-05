@@ -9,21 +9,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1100&color=8B9DFF&center=true&vCenter=true&width=650&lines=Building+things+for+the+web.;Designing+experiences+that+matter.;Exploring+systems+%26+security.;Always+learning.+Always+building." alt="Typing SVG"/>
 </a>
 
+
 <br/><br/>
 
 <a href="https://github.com/sDivyabanu">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/divyabanus/">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:sdivyabanu09@gmail.com">
-<img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sdivyabanu09@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
+
 
 <br/>
 
